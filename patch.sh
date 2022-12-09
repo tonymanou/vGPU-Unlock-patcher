@@ -2,7 +2,7 @@
 
 BASEDIR=$(dirname $0)
 
-GNRL="NVIDIA-Linux-x86_64-525.60.11"
+GNRL="NVIDIA-Linux-x86_64-525.60.13"
 VGPU="NVIDIA-Linux-x86_64-525.60.12-vgpu-kvm"
 GRID="NVIDIA-Linux-x86_64-525.60.13-grid"
 #WSYS="NVIDIA-Windows-x86_64-512.15"
