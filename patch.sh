@@ -432,5 +432,6 @@ if $REPACK; then
         "NVIDIA Accelerated Graphics Driver for Linux-x86_64 ${TARGET#NVIDIA-Linux-x86_64-}" \
         ./nvidia-installer
     rm -f ${TARGET}.lsm
-    echo "done"
 fi
+
+echo 'done'
